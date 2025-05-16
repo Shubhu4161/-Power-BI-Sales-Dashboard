@@ -2,7 +2,7 @@
 
 ### 📌 **Project Description:**
 This project involved building a dynamic and interactive Sales Dashboard using Power BI to provide actionable business insights into overall performance metrics such as Revenue, Profit, Quantity Sold, Customer Base, and Product Trends.
-Here’s a **professional description** for your **Power BI Sales Dashboard Project** that you can use in your resume, LinkedIn, or GitHub:
+
 
 ### ✅ **Key Highlights:**
 - **Data Modeling**: Connected and established relationships between fact and dimension tables (FactSales, DimCustomer, DimEmployee, DimDate, DimCity, DimStockItem).
